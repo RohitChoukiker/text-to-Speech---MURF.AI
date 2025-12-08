@@ -1,2 +1,9 @@
 murf 
+pyaudiorohtichoukiker
+(venv) rohitchoukiker@Rohit-Macbook text-to-Speech---MURF.AI % python ./main.py
+murf
 pyaudio
+rohtichoukiker
+sounddevice
+numpy
+scipy
